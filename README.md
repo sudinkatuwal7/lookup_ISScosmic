@@ -1,6 +1,6 @@
-# 🚀 OrbitWatch — ISS Overhead Notifier
+# 🚀 lookup_ISScosmic — ISS Overhead Notifier
 
-OrbitWatch is a Python program that monitors the position of the **International Space Station (ISS)** and sends you an **email notification** when the ISS passes close to your location during nighttime.
+lookup_ISScosmic is a Python program that monitors the position of the **International Space Station (ISS)** and sends you an **email notification** when the ISS passes close to your location during nighttime.
 
 Instead of constantly checking the sky, this script automatically tracks the ISS using public APIs and alerts you when it might be visible.
 
@@ -95,7 +95,7 @@ MY_EMAIL = "your_email@gmail.com"
 
 MY_PASSWORD = "your_app_password"
 
-For Gmail, you should create an App Password instead of using your normal password.
+For Gmail, you should create an `App Password` instead of using your normal password.
 
 ---
 
@@ -117,7 +117,7 @@ Run the program:
 ```
 python main.py
 ```
-
+---
 ## ⏱ Program Behavior
 
 The script continuously runs and checks every 60 seconds.
