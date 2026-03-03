@@ -49,7 +49,8 @@ while True:
             from_addr=MY_EMAIL,
             to_addrs=MY_EMAIL,
             msg="Subject:ISS Passing Overhead 🚀\n\n"
-                "Look up! The International Space Station is currently passing near your location."
+                "The International Space Station is currently passing near your location. "
+                "Go outside and try spotting it in the night sky."
         )
 
 
