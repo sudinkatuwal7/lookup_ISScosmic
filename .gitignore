@@ -1,0 +1,10 @@
+# secrets
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# python junk
+__pycache__/
+*.pyc
